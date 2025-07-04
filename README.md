@@ -12,7 +12,7 @@
 - ✋ **Raise Hand**: Students can raise virtual hands to request help or ask questions.
 - 📤 **Broadcast Prompts**: Instructors can push coding challenges or instructions to all participants.
 - ⚡ **Lightweight Sessions**: Session data stored in-memory for fast prototyping and low latency.
-- 🌐 **Deployment-Ready**: Vercel + Render for full-stack deployment.
+- 🌐 **Deployment-Ready**: Netlify + Render for full-stack deployment.
 
 ---
 

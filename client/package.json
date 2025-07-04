@@ -18,8 +18,10 @@
     "livekit-client": "^2.13.8",
     "lucide-react": "^0.522.0",
     "npm": "^11.4.2",
+    "re-resizable": "^6.11.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-resizable": "^3.0.5",
     "react-router-dom": "^7.6.2",
     "socket.io-client": "^4.8.1"
   },

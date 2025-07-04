@@ -300,7 +300,7 @@ const Classroom = () => {
               value={code}
               onChange={handleEditorChange}
               options={{
-                readOnly: userInfo?._id !== editorController?.id,
+                readOnly: !(userInfo?.role === 'instructor' || userInfo?._id === editorController?.id),
                 fontSize: 14,
               }}
             />
